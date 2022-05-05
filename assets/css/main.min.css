@@ -28,7 +28,7 @@ a:hover{color:#fff}
 @keyframes a{0%,to{transform:translate(0)}25%{transform:translate(160%)}50%{transform:translate(160%,160%)}75%{transform:translateY(160%)}}
 .footer{background:#2b2d2f;color:#fff;margin:.5rem;padding:1rem;text-align:center}
 .footer a{color:#ff073a}
-#landing,.footer a:focus,.footer a:hover{background:#2b2d2f;color:#fff}
+#landing,.footer a:focus,.footer a:hover{background:#2b2d2f54;color:#fff}
 #landing{display:-ms-flexbox;display:flex;height:100%;text-align:center}
 #landing,.landing-title{margin:.5rem;padding:.5rem}
 .landing-title{left:0;position:absolute;right:0;top:40%}
