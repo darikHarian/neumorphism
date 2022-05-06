@@ -1,0 +1,25 @@
+{
+    "zenMode.restore": false,
+    "html.hover.references": false,
+    "css.hover.references": false,
+    "less.hover.references": false,
+    "scss.hover.references": false,
+    "editor.parameterHints.enabled": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.inlayHints.enabled": "off",
+    "editor.suggest.showUnits": false,
+    "editor.suggest.showClasses": false,
+    "editor.suggest.showDeprecated": false,
+    "workbench.editor.languageDetectionHints": {
+        "untitledEditors": false
+    },
+    "html.suggest.html5": false,
+    "editor.hover.above": false,
+    "editor.hover.enabled": false,
+    "editor.hover.sticky": false,
+    "html.hover.documentation": false,
+    "css.hover.documentation": false,
+    "less.hover.documentation": false,
+    "scss.hover.documentation": false,
+    "npm.fetchOnlinePackageInfo": false
+}
